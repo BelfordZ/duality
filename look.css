@@ -1,0 +1,27 @@
+table.articleData
+{
+}
+.Name
+{
+	float:left;
+}                                                                                                                                                                                     
+.itemHolder
+{
+	float:none;
+}                                                                                                                                                                                    
+.high
+{
+	background-color:green;
+}                                                                                                                                                                        
+.mid
+{
+	background-color:yellow;
+}                                                                                                                                                                      
+.low
+{
+	background-color:red;
+}
+.out
+{
+	display:hidden;
+}
